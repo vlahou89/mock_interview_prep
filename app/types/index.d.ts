@@ -30,7 +30,3 @@ interface SignUpParams {
 }
 
 type FormType = "sign-in" | "sign-up";
-
-interface TechIconProps {
-  techStack: string[];
-}
